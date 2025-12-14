@@ -9,7 +9,7 @@ The zip files contain the real life and online photos we used for the course.
 - **Toolboxes**
   - Image Processing Toolbox
   - Statistics and Machine Learning Toolbox
-  - https://webpages.tuni.fi/foi/GCF-BM3D/index.html 
+  - https://webpages.tuni.fi/foi/GCF-BM3D/index.html (noise filters)
 
 ## Get ISETCam
 Clone the ISETCam simulator:
