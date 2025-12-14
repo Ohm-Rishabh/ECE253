@@ -2,6 +2,8 @@
 
 This is the repo for the course project ECE253 at UCSD
 
+The zip files contain the real life and online photos we used for the course.
+
 ## Requirements
 - **MATLAB** (recommended: R2020a or newer)
 - **Toolboxes**
